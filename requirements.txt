@@ -1,2 +1,5 @@
 streamlit
 tensorflow
+pandas               
+numpy                 
+pip                   
